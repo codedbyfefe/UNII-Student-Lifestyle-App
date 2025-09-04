@@ -23,10 +23,10 @@ The app was built based on student feedback to reduce stress, save time, and cre
 
 ---
 
-## 🖼️ Screenshots
-
+## Screenshots
 
 ```markdown
-![Home Screen](screenshots/home.png)
-![Map Feature](screenshots/map.png)
-![Food Ordering (MatrixGO)](screenshots/matrixgo.png)
+![ Screenshot](Uni/UNII1.png)
+![ Screenshot](Uni/UNII2.png)
+![ Screenshot](Uni/IMG_1631.png)
+![ Screenshot](Uni/Screenshot 2025-09-04 at 00.33.50.png)
