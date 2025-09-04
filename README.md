@@ -27,4 +27,3 @@ The app was built based on student feedback to reduce stress, save time, and cre
 ![ Main Screenshot](Uni/UNII1.png)
 ![Second Screenshot](Uni/UNII2.png)
 ![MatrixGo Screenshot](Uni/IMG_1631.PNG)
-![Info Screenshot](Uni/Screenshot 2025-09-04 at 00.33.50.png)
