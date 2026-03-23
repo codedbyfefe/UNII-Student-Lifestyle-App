@@ -1,6 +1,6 @@
 # UNII Student Lifestyle App
 
-# 📱 UNII Student App (Demo)
+# 📱 UNII Student App 
 
 **Created:** 2023  
 **Tools:** React, Figma, Expo, GitHub  
@@ -10,7 +10,7 @@
 
 ##  What Is This App?
 
-UNII is a mobile app prototype designed to help **Wits University students** manage campus life more easily.
+UNII is a React app prototype designed to help **Wits University students** manage campus life more easily.
 
 It combines essential features into one easy-to-use platform:
 
