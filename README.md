@@ -1,5 +1,3 @@
-# UNII Student Lifestyle App
-
 # 📱 UNII Student App 
 
 **Created:** 2023  
