@@ -1,27 +1,19 @@
-# 📱 UNII Student App 
+# 🌐 Portfolio Website 
 
-**Created:** 2023  
-**Tools:** React, Figma, Expo, GitHub  
-**Role:** UX/UI Designer & Front-End Developer
+**Created:** 2025- present  
+**Tools:** React, GitHub  
+**Role:** Developer
 
 ---
 
-##  What Is This App?
+##  What Is This Project?
 
-UNII is a React app prototype designed to help **Wits University students** manage campus life more easily.
-
-It combines essential features into one easy-to-use platform:
-
-- 🗺️ **Campus Map** – Navigate buildings and lecture halls  
-- 🍔 **MatrixGO** – Order food from on-campus vendors  
-- 📅 **Campus Events** – Stay updated on academic and social happenings  
-- 📍 **Local Hotspots** – Find safe, affordable places around campus
-
-The app was built based on student feedback to reduce stress, save time, and create a more connected campus experience.
+A personal portfolio website for a developer and designer, showcasing selected projects, technical skills, and creative work. The site highlights a focus on clean design, usability, and building engaging digital experiences.
 
 ---
 
 ## Screenshots
-![ Main Screenshot](Uni/UNII1.png)
-![Second Screenshot](Uni/UNII2.png)
+![ Main Screenshot](public/images/PRT1.png)
+![Second Screenshot](public/images/PRT4png)
+![Second Screenshot](public/images/PRT5.png)
 
